@@ -4,7 +4,7 @@ A word-guessing game built with React where you try to guess programming-related
 
 ## 🎮 Live Demo
 
-[final-compile](final-compile.netlify.app)
+##[final-compile](https://final-compile.netlify.app/)
 
 ## 📸 Screenshots
 
